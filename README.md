@@ -103,7 +103,7 @@ Global Stocks Markets . ( Trading )
 2002-01-05  1172.510010  2059.379883  5323.799805  10871.490234  3375.739990
 
 📈 Création de l'analyse comparative...
-📊 INSIGHTS ANALYTIQUES - MARCHÉS BOURSIERS MONDIALUX
+📊 INSIGHTS ANALYTIQUES - MARCHÉS BOURSIERS MONDIAUX
 ======================================================================
 
 1. 📈 PERFORMANCE TOTALE (2002-2024):
