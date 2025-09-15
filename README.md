@@ -3,45 +3,85 @@ Global Stocks Markets . ( Trading )
 
 🌍 ANALYSE COMPARATIVE DES MARCHÉS BOURSIERS MONDIALUX
 ============================================================
+
 📊 Téléchargement des données boursières mondiales...
+
 ⬇️  Téléchargement SP500 (^GSPC)...
+
 ✅ SP500: 5788 points de données
+
 ⬇️  Téléchargement NASDAQ (^IXIC)...
+
 ✅ NASDAQ: 5788 points de données
+
 ⬇️  Téléchargement DJIA (^DJI)...
+
 ✅ DJIA: 5788 points de données
+
 ⬇️  Téléchargement FTSE100 (^FTSE)...
+
 ✅ FTSE100: 5808 points de données
+
 ⬇️  Téléchargement DAX (^GDAXI)...
+
 ✅ DAX: 5841 points de données
+
 ⬇️  Téléchargement CAC40 (^FCHI)...
+
 ✅ CAC40: 5883 points de données
+
 ⬇️  Téléchargement NIKKEI225 (^N225)...
+
 ✅ NIKKEI225: 5632 points de données
+
 ⬇️  Téléchargement SHANGHAI (000001.SS)...
+
 ✅ SHANGHAI: 5573 points de données
+
 ⬇️  Téléchargement HANG_SENG (^HSI)...
+
 ✅ HANG_SENG: 5669 points de données
+
 ⬇️  Téléchargement BSE_SENSEX (^BSESN)...
+
 ✅ BSE_SENSEX: 5664 points de données
+
 ⬇️  Téléchargement TSX (^GSPTSE)...
+
 ✅ TSX: 5776 points de données
+
 ⬇️  Téléchargement ASX200 (^AXJO)...
+
 ✅ ASX200: 5812 points de données
+
 ⬇️  Téléchargement IBOVESPA (^BVSP)...
+
 ✅ IBOVESPA: 5698 points de données
+
 ⬇️  Téléchargement MOEX (IMOEX.ME)...
+
 ✅ MOEX: 2795 points de données
+
 ⬇️  Téléchargement KOSPI (^KS11)...
+
 ✅ KOSPI: 5674 points de données
+
 ⬇️  Téléchargement TAIWAN (^TWII)...
+
 ✅ TAIWAN: 5644 points de données
+
 ⬇️  Téléchargement STI (^STI)...
+
 ✅ STI: 5755 points de données
+
 ⬇️  Téléchargement MSCI_EM (EEM)...
+
 ✅ MSCI_EM: 5466 points de données
+
 ⬇️  Téléchargement MSCI_WORLD (URTH)...
+
 ✅ MSCI_WORLD: 3262 points de données
+
 
 📊 19/19 téléchargements réussis
 
