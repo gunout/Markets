@@ -1,7 +1,7 @@
 # Markets
 Global Stocks Markets . ( Trading ) 
 
-🌍 ANALYSE COMPARATIVE DES MARCHÉS BOURSIERS MONDIALUX
+🌍 ANALYSE COMPARATIVE DES MARCHÉS BOURSIERS MONDIAUX
 ============================================================
 
 📊 Téléchargement des données boursières mondiales...
